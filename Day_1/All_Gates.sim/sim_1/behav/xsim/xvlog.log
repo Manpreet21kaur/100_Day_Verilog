@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado_Practical/100_day_verilog/All_Gates/All_Gates.srcs/sources_1/new/All_Gates.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module All_Gates
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado_Practical/100_day_verilog/All_Gates/All_Gates.srcs/sim_1/new/All_Gates_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module All_Gates_tb
