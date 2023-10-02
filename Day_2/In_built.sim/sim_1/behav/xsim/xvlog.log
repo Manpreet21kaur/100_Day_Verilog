@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado_Practical/100_day_verilog/In_built/In_built.srcs/sources_1/new/In_Built.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module In_Built
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado_Practical/100_day_verilog/In_built/In_built.srcs/sim_1/new/In_Bulit_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module In_Bulit_tb
